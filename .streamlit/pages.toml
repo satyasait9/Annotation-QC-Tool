@@ -1,0 +1,19 @@
+[[pages]]
+path = "qcTool.py"
+name = "Login"
+icon = ":game_die:"
+ 
+[[pages]]
+path = "pages/qcInfo.py"
+name = "QC Information"
+icon = "🧊"
+ 
+[[pages]]
+path = "pages/qcMain.py"
+name = "QC Tool"
+icon = ":mag:"
+ 
+[[pages]]
+path = "pages/admin.py"
+name = "Admin Dashboard"
+icon = ":mag:"
